@@ -1,0 +1,297 @@
+# Characters State File — No KPI at the End of the Universe
+# Author: Apex Shaw
+# Generated: 2026-06-22
+
+characters:
+  - id: evie_chen
+    name: Evie Chen
+    aliases:
+      - "PR Queen"
+      - "Ev"
+    status: active
+    location: Dusk Station
+    condition: Transitioning from frantic escape-urge to reluctant belonging; emotionally raw but healing
+    abilities:
+      - Sharp instinct for spin and narrative framing
+      - Rapid emotional adaptation masked by humor
+      - Connecting with people through vulnerability she pretends is irony
+    relationships:
+      - target: julian_mercer
+        type: romantic_interest
+        status: developing
+      - target: mara_chen
+        type: former_colleague / guilt-object
+        status: unresolved
+      - target: the_stationmaster
+        type: reluctant_confidante
+        status: wary_trust
+      - target: david_park
+        type: ex-boyfriend / betrayer
+        status: severed
+      - target: patricia_holloway
+        type: former_mentor / betrayer
+        status: severed
+    key_traits:
+      - Fierce wit as first defense
+      - Deep fear of being unseen after being cancelled
+      - Secretly craves stillness more than spotlight
+      - Loyalty that burns hot once earned
+      - Self-deprecation that hides genuine pain
+    speech_pattern: "Fast, witty, self-deprecating; Gen-Z vernacular and internet cadence; deflects vulnerability with jokes; trailing sentences when caught off-guard"
+    secrets:
+      - Knew something was off with Patricia's campaign before the betrayal but chose not to look closer
+      - The peace of Dusk Station terrifies her because it means she might not matter — and that might be okay
+    first_appeared: "Ch1"
+    last_appeared: "Ch40"
+    total_appearances: 40
+    role: protagonist
+
+  - id: julian_mercer
+    name: Julian Mercer
+    aliases:
+      - "The Analyst"
+      - "Jules"
+    status: active
+    location: Dusk Station
+    condition: Guarded but slowly thawing; compulsively maintains order as armor; latent warmth surfacing
+    abilities:
+      - Pattern recognition in chaos
+      - Emotional restraint that reads as coldness
+      - Quiet, steady presence under pressure
+    relationships:
+      - target: evie_chen
+        type: romantic_interest
+        status: developing
+      - target: elise_mercer
+        type: younger_sister / sole believer
+        status: devoted_but_distant
+      - target: the_stationmaster
+        type: wary_respect
+        status: testing_boundaries
+      - target: the_conductor
+        type: ideological_opponent
+        status: antagonistic
+      - target: robert_vance
+        type: former_boss / betrayer
+        status: severed
+    key_traits:
+      - Order-obsessed as survival mechanism
+      - Cold exterior concealing carefully rationed warmth
+      - Moral rigidity that cost him everything
+      - Discomfort with uncertainty slowly becoming acceptance
+      - Protective instinct he denies having
+    speech_pattern: "Clipped, precise, sardonic; complete sentences; pauses before personal answers; dry humor disguised as statement of fact"
+    secrets:
+      - The whistle-blowing was supposed to be anonymous; someone inside the firm fed his name to Vance
+      - He sometimes rearranges things in Dusk Station just to feel in control — and the Stationmaster lets him
+    first_appeared: "Ch2"
+    last_appeared: "Ch40"
+    total_appearances: 39
+    role: protagonist
+
+  - id: the_stationmaster
+    name: The Stationmaster
+    aliases:
+      - "The Cat"
+      - "Sir"
+    status: active
+    location: Dusk Station
+    condition: Omniscient and content; mildly intrigued by the new arrivals; purrs rarely
+    abilities:
+      - Omniscience within Dusk Station
+      - Cryptic guidance delivered through riddle and omission
+      - Authority over the station's rules and geography
+      - Appearing and vanishing at will
+    relationships:
+      - target: evie_chen
+        type: reluctant_host / test-subject
+        status: amused_tolerance
+      - target: julian_mercer
+        type: reluctant_host / test-subject
+        status: measured_respect
+      - target: the_conductor
+        type: counterpart / rival jurisdiction
+        status: cold_detente
+    key_traits:
+      - Cryptic to the point of absurdity
+      - Dry wit that lands softly
+      - Genuine affection masked by formality
+      - Purrs when pleased (rare)
+      - Watches everything, intervenes almost never
+    speech_pattern: "Formal, dry, cryptic; short sentences that imply more than they state; occasional riddles; never answers a question directly when a paradox will do"
+    secrets:
+      - Knows exactly why Evie and Julian are in Dusk Station and whether they can leave — but will never say
+      - The tailcoat has pockets that hold impossible objects
+    first_appeared: "Ch1"
+    last_appeared: "Ch40"
+    total_appearances: 15
+    role: supporting
+    supporting_role: guide_and_guardian
+
+  - id: mara_chen
+    name: Mara Chen
+    aliases: []
+    status: offscreen
+    location: New York City (real world)
+    condition: Carries guilt for silence; hopeful that Evie is okay
+    abilities:
+      - Empathy she couldn't act on in time
+      - Honest prose under pressure
+    relationships:
+      - target: evie_chen
+        type: former_assistant / regretful ally
+        status: unresolved_guilt
+    key_traits:
+      - Quiet conscience that speaks too late
+      - Loyalty undermined by fear
+      - Sincerity that arrives by letter
+    speech_pattern: "Written voice only (Ch34 letter); earnest, tentative, apologetic; plain language that amplifies emotion"
+    secrets:
+      - Had evidence that could have cleared Evie but was too afraid to come forward
+    first_appeared: "Ch34"
+    last_appeared: "Ch34"
+    total_appearances: 1
+    role: supporting
+    supporting_role: letter_writer
+
+  - id: elise_mercer
+    name: Elise Mercer
+    aliases: []
+    status: offscreen
+    location: Unknown — real world (likely Boston)
+    condition: Waiting; the only person who never doubted Julian
+    abilities:
+      - Unwavering faith in her brother
+      - Emotional resilience
+    relationships:
+      - target: julian_mercer
+        type: younger_sister / sole believer
+        status: devoted
+    key_traits:
+      - Stubborn belief without evidence
+      - Warmth that doesn't need reciprocation
+      - The kind of loyalty that frightens people
+    speech_pattern: "Written voice only (Ch35 letter — received); warm, direct, unadorned; uses old family shorthand"
+    secrets:
+      - Investigated Vance on her own after Julian disappeared — found something but the trail went cold
+    first_appeared: "Ch35"
+    last_appeared: "Ch35"
+    total_appearances: 1
+    role: supporting
+    supporting_role: letter_recipient
+
+  - id: the_conductor
+    name: The Conductor
+    aliases:
+      - "The Ticket-Taker"
+      - "The Voice of the Schedule"
+    status: active
+    location: The Godot Train
+    condition: Incessant; represents the pull of reality and obligation; cannot be bargained with
+    abilities:
+      - Operates the Godot Train — the only path out of Dusk Station
+      - Embodies the world's demands and deadlines
+      - Cannot lie but will frame the truth to compel departure
+    relationships:
+      - target: evie_chen
+        type: summoner / tempter
+        status: insistent
+      - target: julian_mercer
+        type: summoner / tempter
+        status: insistent
+      - target: the_stationmaster
+        type: jurisdictional_rival
+        status: cold_formality
+    key_traits:
+      - Formal and insistent
+      - Represents reality's unrelenting schedule
+      - Patient in the way deadlines are patient — always coming
+      - Cannot force departure, only invite and remind
+      - The embodiment of "you should be doing something"
+    speech_pattern: "Formal, insistent, declarative; uses schedule and departure metaphors; never raises voice; implies consequence without stating it"
+    secrets:
+      - The train only leaves when someone truly wants to board — no amount of insistence can change that
+      - Has never once been late; has also never once arrived early
+    first_appeared: "Ch24"
+    last_appeared: "Ch39"
+    total_appearances: 5
+    role: supporting
+    supporting_role: antagonist_adjacent
+
+  - id: david_park
+    name: David Park
+    aliases: []
+    status: mentioned_only
+    location: New York City (real world)
+    condition: Unknown — living his life unburdened by consequence
+    abilities: []
+    relationships:
+      - target: evie_chen
+        type: ex-boyfriend / betrayer
+        status: severed
+      - target: patricia_holloway
+        type: co-conspirator
+        status: allied
+    key_traits:
+      - Charming in the way hollow people are
+      - Opportunistic loyalty
+      - The kind of betrayal that smiles at breakfast
+    speech_pattern: "Never appears; referenced as smooth, deflecting, gaslighting in Evie's recollections"
+    secrets:
+      - Shared Evie's campaign strategy with Patricia in exchange for a promotion
+    first_appeared: "Ch1"
+    last_appeared: "Ch33"
+    total_appearances: 0
+    role: background
+    supporting_role: mentioned_only
+
+  - id: patricia_holloway
+    name: Patricia Holloway
+    aliases: []
+    status: mentioned_only
+    location: New York City (real world)
+    condition: Untouched — profited from the theft of Evie's work
+    abilities: []
+    relationships:
+      - target: evie_chen
+        type: former_mentor / betrayer
+        status: severed
+      - target: david_park
+        type: co-conspirator
+        status: allied
+    key_traits:
+      - Institutional cruelty dressed as mentorship
+      - Takes credit as naturally as breathing
+      - The kind of powerful that never faces consequences
+    speech_pattern: "Never appears; referenced as polished, patronizing, corporate-feminist in Evie's recollections"
+    secrets:
+      - Had been stealing junior staff work for over a decade before Evie
+    first_appeared: "Ch1"
+    last_appeared: "Ch33"
+    total_appearances: 0
+    role: background
+    supporting_role: mentioned_only
+
+  - id: robert_vance
+    name: Robert Vance
+    aliases: []
+    status: mentioned_only
+    location: Unknown — real world (likely NYC financial sector)
+    condition: Unscathed — the system protected its own
+    abilities: []
+    relationships:
+      - target: julian_mercer
+        type: former_boss / betrayer
+        status: severed
+    key_traits:
+      - Architect of plausible deniability
+      - Made Julian the fall guy with surgical efficiency
+      - The kind of man who calls betrayal a restructuring
+    speech_pattern: "Never appears; referenced as measured, corporate, menacing-in-blandness in Julian's recollections"
+    secrets:
+      - The money laundering Julian exposed was only the surface; Vance's network ran far deeper
+    first_appeared: "Ch2"
+    last_appeared: "Ch35"
+    total_appearances: 0
+    role: background
+    supporting_role: mentioned_only

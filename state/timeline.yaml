@@ -1,0 +1,26 @@
+# Timeline
+# Record major events by chapter, verify space-time logic
+
+# World time system
+time_system:
+  calendar: ""                  # Calendar name (e.g. "Northland Calendar")
+  format: ""                    # Time format (e.g. "Northland Calendar 1024, Spring")
+  start_date: ""                # Story start date
+
+# Events per chapter
+chapters:
+  - chapter: 1
+    date: ""                    # World time corresponding to this chapter
+    events:
+      - timestamp: ""
+        description: ""
+        characters: []          # Involved character IDs
+        location: ""            # Location ID where event occurs
+        type: normal            # normal | flashback | flashforward | dream | vision
+        note: ""
+    time_elapsed: ""            # Time span of this chapter (e.g. "Three days")
+    
+  - chapter: 2
+    date: ""
+    events: []
+    time_elapsed: ""

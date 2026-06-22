@@ -1,0 +1,233 @@
+novel: "No KPI at the End of the Universe"
+author: "Apex Shaw"
+rules_version: 1
+
+immutable_rules:
+  R001:
+    id: "R001"
+    category: "time"
+    title: "Time Does Not Pass in Dusk Station"
+    description: >
+      No aging, no decay, no progressive time. Clocks reset daily.
+      Nothing rots. Nothing fades. The greenhouse is the exception —
+      plants grow there because the station allows it, but this is
+      emotional growth made literal, not time passing.
+    enforcement: "ABSOLUTE"
+    implications:
+      - "No character ages or physically changes during their stay"
+      - "Food never spoils; books never yellow; paint never dries unless the painter wills it"
+      - "Clocks are decorative — they reset at midnight to the same midnight"
+      - "Hair doesn't grow. Nails don't grow. Bodies are maintained in arrival state."
+      - "The greenhouse growing is NOT a contradiction — it is the station's emotional responsiveness, not time"
+    violations_allowed: 0
+
+  R002:
+    id: "R002"
+    category: "access"
+    title: "The Station Is Inaccessible from the Outside World"
+    description: >
+      The outside world cannot reach Dusk Station through any physical
+      or conventional means. The only link between the station and
+      reality is the announcement board, which occasionally displays
+      fragments of the outside — news headlines, emotional truths,
+      messages that shouldn't be possible. This is the sole vector
+      of information from the world left behind.
+    enforcement: "ABSOLUTE"
+    implications:
+      - "No phone, internet, mail, or signal reaches the station"
+      - "No new person arrives uninvited — the station catches you when you fall; it doesn't take volunteers"
+      - "The announcement board is the ONLY window to the outside world"
+      - "Whatever the board displays is true but partial — it shows what residents emotionally need to see"
+      - "No one from the outside can send a message intentionally"
+    violations_allowed: 0
+
+  R003:
+    id: "R003"
+    category: "the_train"
+    title: "The Godot Train Comes Only When It Comes"
+    description: >
+      The train operates on no schedule, responds to no request, and
+      cannot be summoned, predicted, or bargained with. It comes when
+      it comes. This is not cruelty — it is the station respecting the
+      unpredictable timeline of healing. The train comes when the
+      residents are ready, but readiness is not something you can
+      schedule or perform.
+    enforcement: "ABSOLUTE"
+    implications:
+      - "No amount of waiting, wishing, or demanding brings the train sooner"
+      - "Julian's schedule fixation cannot accelerate the train"
+      - "The announcement board's countdown begins on its own terms"
+      - "The Conductor announces the train only when it is actually arriving"
+      - "The train is not a reward — it is simply a door that opens when it opens"
+    violations_allowed: 0
+
+  R004:
+    id: "R004"
+    category: "departure"
+    title: "Residents Cannot Leave Except via the Godot Train"
+    description: >
+      The tracks lead into fog and return nothing. The corridor extends
+      infinitely. There is no door, window, fire exit, or escape hatch.
+      The only way out is the Godot train. This is not imprisonment —
+      it is protection. The station holds you until you're ready to be
+      released, and the train is the mechanism of that release.
+    enforcement: "ABSOLUTE"
+    implications:
+      - "Walking the tracks leads back to the platform — the fog is a loop"
+      - "The corridor is infinite — you walk as far as you need but end up where you are"
+      - "No character can leave through force of will, cleverness, or desperation"
+      - "The train is the only exit, and boarding it is always a choice (see R008)"
+      - "Previous residents left via the train — no other departure method exists or existed"
+    violations_allowed: 0
+
+  R005:
+    id: "R005"
+    category: "resources"
+    title: "The Café, Wardrobe, and Amenities Are Infinite and Self-Replenishing"
+    description: >
+      The station provides. There is no scarcity, no rationing, no
+      competition for resources. The café restocks itself. The wardrobe
+      fills itself. The bookshop has every book. The paint never runs
+      out. This is not luxury — it is the station removing every
+      external pressure so the only work left is internal.
+    enforcement: "ABSOLUTE"
+    implications:
+      - "No hunger, no cold, no material need can exist in the station"
+      - "Macarons appear before Evie realizes she wants them"
+      - "The wardrobe provides emotional truths via clothing — sometimes what you need, not what you want"
+      - "No two residents could compete for resources even if they wanted to"
+      - "The self-replenishing nature is itself emotionally meaningful — the station cares for you"
+    violations_allowed: 0
+
+  R006:
+    id: "R006"
+    category: "responsiveness"
+    title: "The Station Reflects Its Residents' Emotional States"
+    description: >
+      Dusk Station is not passive architecture — it is responsive,
+      alive, and emotionally literate. New rooms appear when residents
+      grow or need to grow. The corridor extends when someone needs
+      distance. Rooms shift color with moods. The station is a mirror
+      made of brass and velvet, reflecting not what you look like
+      but what you feel like.
+    enforcement: "ABSOLUTE"
+    implications:
+      - "Room 7 appeared when Evie chose to stay; its walls shift with her mood"
+      - "Room 13 appeared when Julian stopped trying to leave; it softened as he did"
+      - "The art gallery appeared after Evie cried in the corridor"
+      - "The painting studio appeared after Julian tore up his schedule"
+      - "The corridor extends or contracts based on emotional needs"
+      - "Rooms go dark during the fight (Ch32) because the residents' emotional states darken"
+      - "The greenhouse grows because emotional growth is happening there"
+    violations_allowed: 0
+
+  R007:
+    id: "R007"
+    category: "the_cat"
+    title: "The Cat Is Omniscient About the Station but Cryptic"
+    description: >
+      The Stationmaster knows everything about Dusk Station — its
+      history, its previous residents, its mechanisms, its purpose.
+      It will never give a straight answer. It will never explain
+      itself. It communicates through slow blinks, strategic naps,
+      knocked-off macarons, and appearing exactly where needed.
+      The one straight answer it gives (Ch36) is about the station,
+      not about itself. Never about itself.
+    enforcement: "ABSOLUTE"
+    implications:
+      - "The cat always knows more than it says — and says less than it knows"
+      - "The cat's cryptic behavior is not cruelty — it is respect for the resident's journey"
+      - "Direct questions receive indirect answers: purrs, blinks, physical redirections"
+      - "The cat appears at significant emotional moments, offering presence not explanation"
+      - "The cat's origin (T008) is never resolved — this rule protects that mystery"
+      - "The one straight answer (the station's nature in Ch36) is the exception that proves the rule"
+    violations_allowed: 0
+
+  R008:
+    id: "R008"
+    category: "agency"
+    title: "Choose Your Own Path — The Station Never Forces Anyone to Stay or Go"
+    description: >
+      The station catches you, but it does not keep you. It holds you,
+      but it does not own you. Every resident chooses to stay. Every
+      resident chooses to go. The Godot train arrives, and boarding it
+      is a choice — the station would permit you to remain forever.
+      This is the station's deepest mercy: it respects your autonomy
+      even when the world did not.
+    enforcement: "ABSOLUTE"
+    implications:
+      - "No one is trapped — the station's inaccessibility (R004) is protection, not imprisonment"
+      - "Boarding the Godot train is always voluntary"
+      - "Staying in the station forever is a valid choice the station would honor"
+      - "The station never pressures, guilt-trips, or manipulates residents into any decision"
+      - "Evie and Julian choosing to leave together is more meaningful because they could have stayed"
+      - "Previous residents who left, left by choice; any who stayed, stayed by choice"
+      - "The cat's cryptic nature (R007) is an expression of this rule — it won't decide for you"
+    violations_allowed: 0
+
+soft_rules:
+  S001:
+    id: "S001"
+    category: "tone"
+    title: "Absurdity with Warmth"
+    description: >
+      The novel is absurdist but never cruel. The station's impossibilities
+      are played for gentle humor and existential poignancy, never for
+      mockery or meanness. The world broke these people; the station
+      doesn't make fun of them for being broken.
+    enforcement: "STRONG"
+    can_be_broken: false
+    note: "The absurdist tone must always serve warmth, not detachment"
+
+  S002:
+    id: "S002"
+    category: "pacing"
+    title: "Liminal Patience"
+    description: >
+      Because time doesn't pass, the narrative measures itself in
+      emotional beats, not chronological ones. A chapter can cover
+      an afternoon or an eternity. The pacing should feel like
+      the station itself — unhurried, attentive, present.
+    enforcement: "MODERATE"
+    can_be_broken: true
+    note: "Action sequences (the fight, the train arrival) can accelerate pacing; the baseline is patient"
+
+  S003:
+    id: "S003"
+    category: "perspective"
+    title: "Intimate Third Person"
+    description: >
+      The narrative stays close to Evie and Julian's interiors,
+      alternating between their perspectives. No objective narrator
+      explains the station. What they don't understand, the reader
+      doesn't understand. What they feel, the reader feels.
+    enforcement: "STRONG"
+    can_be_broken: false
+    note: "The Conductor and the cat are never POV characters — their interiority is withheld"
+
+  S004:
+    id: "S004"
+    category: "language"
+    title: "Precise Beauty"
+    description: >
+      The prose is literary but not purple. Evie's sections tend toward
+      lyrical wit; Julian's toward structured observation. As they grow,
+      their narrative voices bleed into each other — his sentences loosen;
+      hers tighten. The language should feel like the station: beautiful,
+      precise, slightly impossible.
+    enforcement: "MODERATE"
+    can_be_broken: true
+    note: "Emotional climaxes can break the pattern; everyday scenes maintain it"
+
+meta:
+  total_rules: 12
+  immutable_rules: 8
+  soft_rules: 4
+  thematic_statement: >
+    These rules exist to protect the novel's core emotional truth:
+    that healing cannot be scheduled, that mercy does not require
+    explanation, that choosing to stay and choosing to go are both
+    acts of courage, and that no KPI — no metric, no measurement,
+    no external validation — can determine whether a life is worth
+    living. The rules of Dusk Station are the antithesis of the
+    rules that broke its residents.

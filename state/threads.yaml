@@ -1,0 +1,306 @@
+threads:
+  T001:
+    id: "T001"
+    title: "The Godot Train"
+    type: "MAJOR"
+    status: "active"
+    planted_chapter: 1
+    resolved_chapter: 39
+    description: >
+      The central question of Dusk Station: will the train ever come?
+      Two tracks stretch into lavender fog and never produce a train —
+      until they do. The Godot train represents the exit, the return to
+      the world, the choice to leave. It comes only when it comes, on
+      no one's schedule, and its arrival forces the ultimate decision:
+      stay in the beautiful stasis, or go back to the broken world
+      and live in it anyway.
+    beats:
+      - chapter: 1
+        note: "Evie arrives; no train in sight. The waiting begins."
+      - chapter: 5
+        note: "Julian checks the timetable obsessively. There is no timetable."
+      - chapter: 12
+        note: "A sound like a train — false alarm. The station playing tricks."
+      - chapter: 21
+        note: "Announcement board begins Godot countdown. The train is... coming?"
+      - chapter: 30
+        note: "The concept of leaving becomes real. Panic and excitement."
+      - chapter: 35
+        note: "The sound of a distant whistle. The station shivers."
+      - chapter: 38
+        note: "The train is visible in the fog. They have hours."
+      - chapter: 39
+        note: "The Godot train arrives. Evie and Julian choose together: they go."
+    resolution: >
+      The train arrives, and it does so without fanfare or judgment.
+      Evie and Julian board it together, choosing to return to the world
+      not because the station rejected them, but because they are ready.
+      The station catches you when you fall; it lets you go when you choose to walk.
+    emotional_payload: "release, bittersweet, chosen departure"
+
+  T002:
+    id: "T002"
+    title: "Evie's Betrayal"
+    type: "MAJOR"
+    status: "active"
+    planted_chapter: 1
+    resolved_chapter: 34
+    description: >
+      Evie's mentor Patricia Holloway stole her manuscript, her boyfriend
+      David Park colluded, and the internet cancelled her as a plagiarist —
+      the exact crime committed against her. Her mother's response — 'maybe
+      you should have been more careful' — added abandonment to betrayal.
+      This wound defines Evie's defensive walls, her distrust, and her
+      reluctance to create again.
+    beats:
+      - chapter: 1
+        note: "Evie arrives at the station already carrying the weight. We see the scar, not the wound."
+      - chapter: 4
+        note: "First hint — Evie won't write. The bookshop's empty notebooks mock her."
+      - chapter: 8
+        note: "Evie admits the outline of the betrayal to Julian during a reluctant café conversation."
+      - chapter: 15
+        note: "Full betrayal revealed: the theft, David's collusion, the cancellation, Mara's dismissal."
+      - chapter: 22
+        note: "Evie starts writing again — one sentence. Then another. The wound starts to breathe."
+      - chapter: 28
+        note: "Evie finds stationery in the bookshop. Begins drafting a letter she may never send."
+      - chapter: 34
+        note: "Evie writes the letter to Patricia. She doesn't send it. She doesn't need to."
+    resolution: >
+      Evie writes a letter to Patricia Holloway — not for Patricia, but for
+      herself. She says everything she needs to say. Then she folds it, puts
+      it in her pocket, and writes something new on a fresh page. The betrayal
+      doesn't stop being true. It just stops being the end of the sentence.
+    emotional_payload: "closure without confrontation, reclaiming the narrative"
+
+  T003:
+    id: "T003"
+    title: "Julian's Whistleblowing"
+    type: "MAJOR"
+    status: "active"
+    planted_chapter: 1
+    resolved_chapter: 35
+    description: >
+      Julian uncovered his boss Robert Vance's embezzlement of pension funds,
+      reported it through every proper channel, and was framed as the embezzler
+      himself. Robert Vance — charming, powerful, believed — destroyed him.
+      His mother Elise's response — 'why would Robert lie?' — was the wound
+      beneath the wound. Julian arrived at the station with a spreadsheet of
+      his life that didn't add up and a desperate need for everything to make sense.
+    beats:
+      - chapter: 1
+        note: "Julian arrives with his need for order already cracking. He tries to catalogue the station."
+      - chapter: 3
+        note: "Julian creates a schedule for station life. It lasts seventeen minutes."
+      - chapter: 7
+        note: "First hint — Julian mentions 'trying to do the right thing' like it tastes bitter."
+      - chapter: 11
+        note: "Julian tells Evie the full story: the discovery, the reporting, the framing, the mother."
+      - chapter: 19
+        note: "Julian confronts the possibility that doing everything right and losing anyway is not a flaw in him."
+      - chapter: 25
+        note: "Julian picks up a paintbrush for the first time. Angry geometry on canvas."
+      - chapter: 35
+        note: "Julian writes the letter to Robert Vance. Then he paints over it. Then he paints something beautiful."
+    resolution: >
+      Julian writes the letter to Robert Vance — cold, precise, devastating.
+      Then he realizes he doesn't need Vance to read it. He needs himself to
+      write it. He paints over the letter and creates something luminous.
+      The injustice doesn't become just. He just stops carrying it alone.
+    emotional_payload: "letting go of the need for vindication, self-acceptance"
+
+  T004:
+    id: "T004"
+    title: "The Station's True Nature"
+    type: "MAJOR"
+    status: "active"
+    planted_chapter: 2
+    resolved_chapter: 36
+    description: >
+      What is Dusk Station? Why were Evie and Julian caught? The station
+      is a cosmic waiting room for the broken — but caught implies nets,
+      and nets imply intention. As the station grows around them (new rooms
+      appearing, the corridor extending, rooms that reflect their emotional
+      states), the question becomes: is this a prison, a hospital, or a home?
+      The answer is yes.
+    beats:
+      - chapter: 2
+        note: "Evie notices the station responses to her — a door appears where she needs one."
+      - chapter: 6
+        note: "The corridor extends. A new room. The station is growing."
+      - chapter: 10
+        note: "The Conductor mentions 'previous residents' with gentle sadness."
+      - chapter: 16
+        note: "Evie and Julian realize the station is mirroring their emotional states."
+      - chapter: 24
+        note: "The greenhouse grows. Something is alive here despite the time-freeze."
+      - chapter: 30
+        note: "The station begins preparing for departure — subtly, gently, like packing for someone you love."
+      - chapter: 36
+        note: "The Stationmaster sits on the platform bench and, for once, is not cryptic. 'It catches you when you fall. It lets you go when you choose to walk.'"
+    resolution: >
+      The station is a mercy. A cosmic net for people in freefall. It doesn't
+      trap — it holds. It doesn't heal — it gives you the stillness to heal
+      yourself. And when you're ready, it doesn't push — it opens a door.
+      The Stationmaster's one straight answer is also the station's mission statement.
+    emotional_payload: "understanding, gratitude, the kindness of being caught"
+
+  T005:
+    id: "T005"
+    title: "Evie & Julian Romance"
+    type: "MINOR"
+    status: "active"
+    planted_chapter: 1
+    resolved_chapter: 23
+    description: >
+      Enemies to lovers slow burn. They arrive hostile — Evie sees Julian's
+      organization as proof of the corporate mindset that destroyed her;
+      Julian sees Evie's chaos as the irresponsible impulse that ruins systems.
+      They are both wrong. They are both right. The station slowly erodes
+      their certainties about each other, replacing them with something
+      more honest and more terrifying: seeing and being seen.
+    beats:
+      - chapter: 1
+        note: "First meeting: immediate friction. Evie calls him 'spreadsheet guy' within five minutes."
+      - chapter: 3
+        note: "Julian tries to enforce quiet hours. Evie plays sad women music louder."
+      - chapter: 7
+        note: "First real conversation — reluctant, in the café, over macarons neither asked for."
+      - chapter: 10
+        note: "Julian notices Evie hasn't written. He doesn't say anything. He leaves a notebook."
+      - chapter: 14
+        note: "Julian tears up his schedule. Evie watches. Something shifts."
+      - chapter: 17
+        note: "Shared silence in the art gallery. Standing side by side. Not talking. Not needing to."
+      - chapter: 20
+        note: "Evie reads something she wrote to Julian. He listens like it matters. It does."
+      - chapter: 23
+        note: "The kiss. On the platform bench, in the lavender light, after a conversation about nothing that means everything."
+      - chapter: 26
+        note: "Not easy after the kiss — it's harder now. Stakes are real."
+      - chapter: 32
+        note: "The fight. Old wounds reopened. The station's rooms go dark."
+      - chapter: 34
+        note: "Reconciliation. Choosing each other despite the cost."
+      - chapter: 38
+        note: "Vows on the platform. No officiant. The Conductor watches from the shadows. The cat purrs."
+    resolution: >
+      The kiss at Ch23 isn't the end — it's the beginning of the real work.
+      The vows at Ch38 are not formal; they are two people promising to
+      choose each other in a world that gave them every reason not to trust.
+      They board the Godot train together.
+    emotional_payload: "earned love, chosen commitment, hope as an act of courage"
+
+  T006:
+    id: "T006"
+    title: "The Announcement Board"
+    type: "MINOR"
+    status: "active"
+    planted_chapter: 1
+    resolved_chapter: 21
+    description: >
+      The announcement board on the main platform glitches. It displays
+      messages that aren't train schedules — fragments of reality bleeding
+      through, emotional truths, sometimes warnings, sometimes comfort.
+      It is the station's voice and the outside world's only window in.
+      When the Godot countdown begins, the board becomes something else:
+      a promise.
+    beats:
+      - chapter: 1
+        note: "Board reads: 'YOU ARE HERE.' Evie finds this neither helpful nor comforting."
+      - chapter: 3
+        note: "Board reads: 'THE SCHEDULE IS A LIE.' Julian takes this personally."
+      - chapter: 7
+        note: "Board reads: 'SHE STOLE YOUR WORDS BUT SHE CANNOT STEAL YOUR VOICE.' Evie stares at it for a long time."
+      - chapter: 12
+        note: "Board displays a fragment of the outside world — a news headline. The world goes on without them."
+      - chapter: 17
+        note: "Board reads: 'YOU ARE NOT WHO YOU WERE WHEN YOU ARRIVED.' Neither of them argue."
+      - chapter: 21
+        note: "Board glitches, flickers, and then: 'GODOT: COMING.' The countdown begins."
+    resolution: >
+      The announcement board stops glitching when it has delivered its most
+      important message: the train is coming. After that, it simply displays
+      the station's gentle schedule — departure times that are honest for once.
+    emotional_payload: "the truth you didn't know you needed to hear"
+
+  T007:
+    id: "T007"
+    title: "Julian's Schedule vs Chaos"
+    type: "MINOR"
+    status: "active"
+    planted_chapter: 3
+    resolved_chapter: 14
+    description: >
+      Julian arrives needing order, systems, predictability. The station
+      offers none of these. His attempts to impose structure on an
+      inherently anarchic, emotionally responsive space are both funny
+      and deeply sad — the flailing of a man whose trust in systems was
+      the one thing that survived his destruction. When he tears up the
+      schedule, he isn't giving up. He's starting over.
+    beats:
+      - chapter: 3
+        note: "Julian creates a detailed daily schedule for station life. Meal times, rest periods, exploration blocks."
+      - chapter: 5
+        note: "Schedule revised. The station keeps adding rooms he didn't account for."
+      - chapter: 7
+        note: "Schedule revised again. The café won't stop making things at random times."
+      - chapter: 9
+        note: "Schedule revised again. Evie has started actively undermining it (not maliciously — she can't help it)."
+      - chapter: 11
+        note: "Julian admits to Evie: 'If I can't control this, what can I control?' The real question surfaces."
+      - chapter: 14
+        note: "Julian tears up the schedule. Not in anger. In surrender. In relief. 'Fine. I'll just... be here.'"
+    resolution: >
+      Julian tears up the schedule on the main platform. Evie watches.
+      The fragments float in the lavender light for a moment too long —
+      the station is being dramatic about it. Julian sits on the bench
+      and, for the first time, doesn't know what comes next. It's the
+      best feeling he's had in years.
+    emotional_payload: "surrender, relief, the freedom of giving up control"
+
+  T008:
+    id: "T008"
+    title: "The Cat's Origin"
+    type: "EASTER_EGG"
+    status: "active"
+    planted_chapter: 2
+    resolved_chapter: null
+    description: >
+      The Stationmaster is a cat. Also possibly the station wearing a fur coat.
+      Also possibly something older. The narrative never resolves this — and
+      that's the point. Some mysteries are better left mysterious. The cat
+      drops cryptic hints throughout, but every answer spawns three new questions.
+    beats:
+      - chapter: 2
+        note: "The cat appears. It watches Evie with an expression that suggests it's read her biography and has notes."
+      - chapter: 6
+        note: "Evie: 'What are you?' Cat: slow blink. No further comment."
+      - chapter: 13
+        note: "The cat is in two rooms at once. Julian notices. The cat does not explain."
+      - chapter: 18
+        note: "Julian: 'Are you the station?' Cat: purrs, knocks a macaron off the table. Emphatically ambiguous."
+      - chapter: 27
+        note: "The cat shows Evie a room she's never seen — containing a painting of a cat on a platform. The cat in the painting is watching the viewer."
+      - chapter: 36
+        note: "The cat gives one straight answer. About the station. Not about itself. Never about itself."
+      - chapter: 39
+        note: "As Evie and Julian board the Godot train, the cat is on the platform. It doesn't follow. It watches. It purrs. It has work to do."
+    resolution: >
+      None. Deliberately. The cat's origin is the one mystery the novel
+      refuses to solve. The Stationmaster is. That's enough. The enigma
+      is the answer — comfort doesn't require explanation.
+    emotional_payload: "the comfort of mystery, the warmth of the unknowable"
+
+meta:
+  total_threads: 8
+  major_threads: 4
+  minor_threads: 3
+  easter_eggs: 1
+  arc_structure:
+    setup: "Chapters 1-8 — arrivals, friction, wounds revealed"
+    development: "Chapters 9-22 — walls coming down, rooms appearing, truths surfacing"
+    turning_points: "Chapters 23-28 — the kiss, the countdown, the hard work begins"
+    climaxes: "Chapters 29-36 — letters written, nature revealed, choices made"
+    resolution: "Chapters 37-39 — vows, the train, departure, the cat still on the platform"

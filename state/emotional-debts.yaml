@@ -1,0 +1,105 @@
+# Emotional Debts — No KPI at the End of the Universe
+# Author: Apex Shaw
+# Tracks unresolved emotional obligations between characters.
+# A debt is "paid" when the owed action/feeling is finally delivered on-page.
+
+novel: "No KPI at the End of the Universe"
+author: Apex Shaw
+total_debts: 7
+last_updated: "2026-06-22"
+
+debts:
+  - id: E001
+    debtor: Evie Chen
+    creditor: Evie Chen
+    description: "Evie owes herself the permission to stop performing."
+    created_chapter: 1
+    payback_chapter: 14
+    status: paid
+    status_detail: "She stops performing in Ch14."
+    paid_chapter: 14
+    notes: "Self-debt. The first debt to be created and the first to be paid. Marks Evie's initial breakthrough."
+
+  - id: E002
+    debtor: Julian Mercer
+    creditor: Evie Chen
+    description: "Julian owes Evie the vulnerability he refuses to show."
+    created_chapter: 4
+    payback_chapter: 30
+    status: paid
+    status_detail: "Partially paid in Ch11 nightmare scene; fully paid in Ch30 greenhouse."
+    partial_payments:
+      - chapter: 11
+        detail: "Nightmare scene — cracks in the armor, but still guarded."
+    paid_chapter: 30
+    notes: "A slow-burn debt. Julian's walls come down in stages; the greenhouse is the full surrender."
+
+  - id: E003
+    debtor: The World
+    creditor: Evie Chen
+    description: "The world owes Evie justice for her betrayal."
+    created_chapter: 1
+    payback_chapter: 34
+    status: paid
+    status_detail: "Board shows betrayers suffering in Ch8; letter from Mara in Ch34 delivers closure."
+    partial_payments:
+      - chapter: 8
+        detail: "Departure board shows betrayers suffering — cosmic wink, not full justice."
+    paid_chapter: 34
+    notes: "Systemic debt. The universe acknowledges her wrong in pieces; Mara's letter is the authentic reckoning."
+
+  - id: E004
+    debtor: The World
+    creditor: Julian Mercer
+    description: "The world owes Julian vindication."
+    created_chapter: 1
+    payback_chapter: 35
+    status: paid
+    status_detail: "Board shows boss indicted in Ch8; letter to sister Elise in Ch35 delivers full vindication."
+    partial_payments:
+      - chapter: 8
+        detail: "Departure board shows boss indicted — foreshadowing, not resolution."
+    paid_chapter: 35
+    notes: "Parallel to E003. Julian's professional disgrace is answered by the universe before his personal closure arrives."
+
+  - id: E005
+    debtor: Evie Chen
+    creditor: Julian Mercer
+    description: "Evie owes Julian the understanding that he's not the enemy."
+    created_chapter: 3
+    payback_chapter: 23
+    status: paid
+    status_detail: "Partially paid when she defends their shared space in Ch18 argument; fully paid in Ch23 confession."
+    partial_payments:
+      - chapter: 18
+        detail: "Argument scene — she defends their shared space, but hasn't fully internalized he's an ally."
+    paid_chapter: 23
+    notes: "Evie's defensive reflexes reclassify Julian slowly. The confession is when she truly sees him."
+
+  - id: E006
+    debtor: Julian Mercer
+    creditor: Evie Chen
+    description: "Julian owes Evie the words he can't say."
+    created_chapter: 6
+    payback_chapter: 23
+    status: paid
+    status_detail: "The macaron apology in Ch19 (partial); the confession in Ch23 (full)."
+    partial_payments:
+      - chapter: 19
+        detail: "Macaron apology — speaks in gesture, not yet in words."
+    paid_chapter: 23
+    notes: "Julian's language is action before speech. The macarons are the bridge; the confession is the arrival."
+
+  - id: E007
+    debtor: Both (Evie & Julian)
+    creditor: The Station
+    description: "Both owe the station their acceptance."
+    created_chapter: 2
+    payback_chapter: 39
+    status: paid
+    status_detail: "They choose to stay in Ch27 (partial); fully affirmed in Ch39."
+    partial_payments:
+      - chapter: 27
+        detail: "They choose to stay — a decision, but not yet an acceptance."
+    paid_chapter: 39
+    notes: "The final debt to be paid. Choosing the liminal space is the novel's existential resolution."

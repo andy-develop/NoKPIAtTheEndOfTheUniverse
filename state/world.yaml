@@ -1,0 +1,359 @@
+novel:
+  title: "No KPI at the End of the Universe"
+  author: "Apex Shaw"
+  genre:
+    - Liminal Space Romance
+    - Cozy Existentialism
+    - Absurdist Literary Reimagining
+  language: en
+  description: >
+    Two professionally ruined souls arrive at an impossible Art Deco train station
+    frozen in eternal lavender twilight. There are no KPIs here. No quarterly reviews.
+    No metric by which to measure a life well-lived. Only a self-replenishing café,
+    a cat who knows too much, and the question of whether the Godot train will ever come.
+
+setting:
+  name: "Dusk Station"
+  meta: >
+    An impossible Art Deco train station stuck in eternal lavender twilight.
+    No time passes. The station is a cosmic waiting room for people the world broke—it catches them.
+    It expands based on residents' emotional states; new rooms appear when they choose to stay.
+  light: "eternal lavender twilight"
+  time: "frozen — no aging, no decay, clock resets daily"
+  atmosphere:
+    - Art Deco grandeur with worn velvet and brass
+    - Liminal — neither here nor there
+    - Cozy despite its impossibility
+    - Gently absurd
+    - Melancholy undercut by warmth
+
+locations:
+  main_platform:
+    name: "Main Platform"
+    description: >
+      The heart of Dusk Station. A broad platform of dark marble and brass inlay.
+      A long wooden bench runs along the wall. Two parallel tracks stretch into
+      lavender fog in both directions and never produce a train — until they do.
+      The announcement board flickers above, occasionally displaying messages
+      that have no business appearing on a train station board.
+    features:
+      - "The Bench — worn smooth by countless previous residents"
+      - "The Tracks — vanishing into lavender fog both ways"
+      - "The Announcement Board — glitching, cryptic, occasionally prophetic"
+
+  café:
+    name: "Café"
+    description: >
+      A cozy Art Deco café with self-replenishing everything. Macarons in jewel
+      tones appear on plates the moment you think about them. Champagne chills
+      itself. The espresso machine produces the exact drink you didn't know you
+      needed. Evie claims the corner booth; Julian pretends he doesn't also have
+      a preferred seat.
+    features:
+      - "Self-replenishing pastries and drinks"
+      - "Macarons (evie's comfort constant)"
+      - "Champagne (julian's reluctant admission)"
+      - "Corner booth (evie's default)"
+      - "Window overlooking the tracks"
+
+  bookshop:
+    name: "Bookshop"
+    description: >
+      Shelves that stretch higher than the ceiling should allow. Every book ever
+      written is here, plus a few that haven't been written yet. The cat can often
+      be found napping on the poetry section. Smells of old paper and possibility.
+    features:
+      - "Infinite stacks — every book, including future ones"
+      - "Poetry section (cat's napping spot)"
+      - "Reading nook with velvet armchair"
+
+  wardrobe_room:
+    name: "Wardrobe Room"
+    description: >
+      An infinite closet that provides exactly the clothing you need, emotionally.
+      Sometimes it gives you what you want; more often it gives you what you need.
+      Julian refuses to visit for the first week. Evie spends an entire afternoon
+      trying on versions of herself.
+    features:
+      - "Infinite self-curating wardrobe"
+      - "Full-length mirrors"
+      - "Provides emotional truths via clothing"
+
+  room_7:
+    name: "Room 7 — Evie's Room"
+    description: >
+      Appeared the night Evie decided to stop trying to leave. Soft amber light,
+      a writing desk by a window that looks out onto a lavender sea, bookshelves
+      filled with half-finished manuscripts, and a bed that feels like forgiveness.
+      The walls shift between warm cream and soft grey depending on her mood.
+    features:
+      - "Writing desk with sea view"
+      - "Half-finished manuscript shelves"
+      - "Mood-responsive walls"
+      - "Bed that feels like forgiveness"
+
+  room_13:
+    name: "Room 13 — Julian's Room"
+    description: >
+      Appeared after Julian's third attempt to create a schedule for the station.
+      Rigid at first — minimalist, grey, military-precise — it gradually softens
+      as he does. By the end, there's art on the walls and a second pillow on the bed.
+      He never admits the room changed.
+    features:
+      - "Initially austere, gradually softening"
+      - "Desk with schedule attempts (later abandoned)"
+      - "Art that appears on walls as he opens up"
+      - "Second pillow (significant)"
+
+  corridor:
+    name: "The Corridor"
+    description: >
+      An infinite Weirdcore hallway connecting all rooms. The wallpaper pattern
+      shifts subtly. Doors appear where there were none. The lighting is always
+      slightly wrong — too warm, too dim, casting shadows that almost move.
+      Walking it feels like walking through a dream you're almost controlling.
+    features:
+      - "Infinite hallway with shifting wallpaper"
+      - "Doors that appear by emotional need"
+      - "Weirdcore lighting"
+      - "Dream-logic navigation"
+
+  rooftop_garden:
+    name: "Rooftop Garden"
+    description: >
+      A garden that shouldn't exist on a station with no roof. Plants that grow
+      in twilight — night-blooming jasmine, moonflowers, lavender (obviously).
+      A bench where two people could sit close but not touching, for hours.
+      The sky above is the same lavender as the fog below.
+    features:
+      - "Night-blooming flowers"
+      - "Lavender (everywhere, obviously)"
+      - "Intimate bench"
+      - "Impossible sky"
+
+  art_gallery:
+    name: "Art Gallery"
+    description: >
+      Appeared after Evie cried in the corridor. Paintings that shift when
+      you're not looking. Art that reflects what you're feeling back at you,
+      but gentler. Julian stood in front of one painting for three hours
+      once. He said he was just resting his eyes.
+    features:
+      - "Emotionally reflective paintings"
+      - "Art that shifts when unobserved"
+      - "Long bench for sitting and feeling"
+
+  greenhouse:
+    name: "Greenhouse"
+    description: >
+      Warm and humid, the only place in the station that doesn't feel frozen.
+      Plants grow here — actually grow, defying the time-stop. Evie tends them
+      like therapy. Julian pretends he isn't also watering things when she's
+      not looking.
+    features:
+      - "Living growing plants (unique in the station)"
+      - "Humid warmth"
+      - "Therapeutic tending"
+
+  movie_theater:
+    name: "Movie Theater"
+    description: >
+      A small Deco theater with velvet seats and a screen that plays whatever
+      you need to see. Sometimes old films. Sometimes memories you've been
+      avoiding. Sometimes a rom-com that neither of you asked for but both
+      of you watch without speaking.
+    features:
+      - "Screen that plays what you need"
+      - "Velvet seats"
+      - "Projector that runs itself"
+
+  painting_studio:
+    name: "Painting Studio"
+    description: >
+      Appeared for Julian after he tore up his schedule. Easels, canvases,
+      paint in every color. He paints abstracts at first — angry geometry.
+      Then the curves appear. Then the lavender. Then a bench by the tracks
+      with two figures on it.
+    features:
+      - "Infinite art supplies"
+      - "Easels and canvases"
+      - "Witness to Julian's emotional arc"
+
+  piano_room:
+    name: "Piano Room"
+    description: >
+      A grand piano that plays sad women music on its own if you let it.
+      Evie plays sometimes — she had lessons as a child she never wanted.
+      Now she plays because she wants to. The acoustics are impossible and perfect.
+    features:
+      - "Self-playing grand piano"
+      - "Sad women music (the record player's sibling)"
+      - "Impossible acoustics"
+
+  constellation_room:
+    name: "Constellation Room"
+    description: >
+      A domed room where the ceiling shows constellations — not real ones.
+      Constellations of choices not taken, lives not lived, people not loved.
+      Each star is a possibility. They rearrange when someone makes a decision.
+      Very beautiful. Very bittersweet.
+    features:
+      - "Fake constellations of unlived lives"
+      - "Stars that rearrange with decisions"
+      - "Domed ceiling"
+      - "Beautiful and bittersweet"
+
+characters:
+  evie_chen:
+    name: "Evie Chen"
+    role: protagonist
+    age: "unspecified (late 20s — doesn't matter here)"
+    description: >
+      A writer whose mentor stole her manuscript, whose boyfriend helped,
+      and whose name became a Twitter punching bag for a week. She arrived
+      at Dusk Station tired in a way sleep doesn't fix. Wry, defensive,
+      quietly hopeful beneath the scar tissue. Falls in love the way she
+      writes — one stubborn word at a time.
+    arc: >
+      From defensive isolation to choosing to love and be loved.
+      From being defined by betrayal to defining herself.
+      From waiting to leave to choosing to stay — and then choosing to go.
+    room: "Room 7"
+    relationships:
+      julian: "enemies → reluctant allies → friends → lovers → chosen family"
+      stationmaster: "skeptical affection → deep trust"
+      conductor: "formal respect → quiet friendship"
+    wounds:
+      - "Mentor (Patricia Holloway) stole her manuscript and published it as her own"
+      - "Boyfriend (David Park) colluded in the theft"
+      - "Online cancellation — 'Evie Chen is a plagiarist' trending for one excruciating week"
+      - "Mother (Mara Chen) said 'maybe you should have been more careful'"
+
+  julian_mercer:
+    name: "Julian Mercer"
+    role: protagonist
+    age: "unspecified (early 30s — stopped counting)"
+    description: >
+      A former corporate compliance officer who discovered his boss was
+      embezzling pension funds, reported it, and was framed as the embezzler.
+      His mother didn't believe him. He arrived at Dusk Station with a
+      spreadsheet of his own life that didn't add up. Control freak, secretly
+      tender, paints when no one is watching, loves once and completely.
+    arc: >
+      From rigid control to beautiful chaos. From schedules to surrender.
+      From proving himself to being enough. From wanting to leave to
+      wanting to stay — and then choosing to go together.
+    room: "Room 13"
+    relationships:
+      evie: "enemies → reluctant allies → friends → lovers → chosen family"
+      stationmaster: "initially suspicious → grudging respect → affection"
+      conductor: "bureaucratic respect → genuine camaraderie"
+    wounds:
+      - "Boss (Robert Vance) framed him for the embezzlement Julian himself uncovered"
+      - "Set up to take the fall for the very crime he tried to stop"
+      - "Mother (Elise Mercer) didn't believe him — 'why would Robert lie?'"
+      - "Professional reputation destroyed"
+
+  stationmaster:
+    name: "The Stationmaster"
+    role: "enigmatic guide"
+    species: "cat (possibly)"
+    description: >
+      A large grey tabby cat with green eyes that hold too much knowing.
+      Omniscient about the station, cryptic about everything else. Never gives
+      a straight answer. Often found napping in the poetry section of the
+      bookshop or appearing exactly where needed. May be the station itself
+      wearing a fur coat. Will neither confirm nor deny.
+    behavior:
+      - "Omniscient about the station"
+      - "Cryptic — never straight answers"
+      - "Appears where needed"
+      - "Naps in the poetry section"
+      - "Purrs at significant emotional moments"
+      - "Will not explain anything twice"
+    relationships:
+      evie: "skeptical affection"
+      julian: "grudging respect"
+      conductor: "collegial mystery"
+
+  conductor:
+    name: "The Conductor"
+    role: "station staff / gentle authority"
+    description: >
+      A tall figure in a perfectly pressed Art Deco uniform who checks tickets
+      that don't exist, announces trains that don't come, and maintains the
+      station's gentle order. speaks formally. Cares deeply. Has seen many
+      residents come and go. Does not age — or perhaps was never young.
+    behavior:
+      - "Formal, gentle, wise"
+      - "Announces the Godot train (eventually)"
+      - "Maintains station operations"
+      - "Respects residents' choices absolutely"
+      - "Has seen many residents before Evie and Julian"
+    relationships:
+      evie: "quiet friendship"
+      julian: "bureaucratic camaraderie"
+      stationmaster: "collegial mystery"
+
+  mara_chen:
+    name: "Mara Chen"
+    role: "referenced only"
+    relationship: "Evie's mother"
+    significance: >
+      Her failure to believe Evie was the second wound after the betrayal.
+      'Maybe you should have been more careful' — the sentence that let Evie
+      know she was alone. Referenced in Evie's pain, addressed in the letter.
+
+  elise_mercer:
+    name: "Elise Mercer"
+    role: "referenced only"
+    relationship: "Julian's mother"
+    significance: >
+      Her failure to believe Julian was the wound beneath the wound.
+      'Why would Robert lie?' — the question that told Julian his mother
+      chose comfort over truth. Referenced in Julian's pain, addressed in the letter.
+
+  david_park:
+    name: "David Park"
+    role: "referenced only"
+    relationship: "Evie's ex-boyfriend"
+    significance: >
+      Colluded with Patricia to steal Evie's manuscript. The personal betrayal
+      layered on top of the professional one. His treachery made Evie doubt
+      her own judgment about people.
+
+  patricia_holloway:
+    name: "Patricia Holloway"
+    role: "referenced only"
+    relationship: "Evie's former mentor"
+    significance: >
+      Stole Evie's manuscript and published it as her own. The architect of
+      Evie's professional destruction. Evie's letter in Ch34 is addressed to her.
+
+  robert_vance:
+    name: "Robert Vance"
+    role: "referenced only"
+    relationship: "Julian's former boss"
+    significance: >
+      Framed Julian for the embezzlement Julian himself uncovered. The architect
+      of Julian's professional destruction. Julian's letter in Ch35 is addressed to him.
+
+meta:
+  themes:
+    - "Professional destruction and personal rebirth"
+    - "Choosing to stay vs. choosing to go"
+    - "The metric-free life"
+    - "Love as an act of defiance against a measuring world"
+    - "Waiting as its own form of action"
+    - "The scars people give each other and the scars they heal"
+    - "Order vs. chaos, schedule vs. surrender"
+    - "Found family in impossible places"
+  motif_system:
+    lavender: "the station's signature color — twilight, liminality, calm"
+    macarons: "comfort, small joys, Evie's emotional barometer"
+    schedules: "Julian's need for control, gradually abandoned"
+    the_cat: "unknowability, comfort, the station's consciousness"
+    the_bench: "shared space, proximity without pressure"
+    the_letter: "closure without confrontation, saying the thing"
+    champagne: "celebrating small nothings in a place of big everythings"
+    painting: "Julian's emotional vocabulary when words fail"

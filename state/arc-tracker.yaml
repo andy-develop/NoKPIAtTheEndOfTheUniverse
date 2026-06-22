@@ -1,0 +1,50 @@
+# Arc Tracker — No KPI at the End of the Universe
+# Author: Apex Shaw
+# Tracks the current narrative arc, phase, and progression metrics.
+# Phase names: Opening, Rising, Escalation, False_Climax, Second_Rise, True_Climax, Falling, Denouement
+
+novel: "No KPI at the End of the Universe"
+author: Apex Shaw
+total_chapters: 40
+last_updated: "2026-06-22"
+
+current_arc: 1
+current_phase: "Opening"
+phase_start_chapter: 1
+phase_chapters_elapsed: 0
+
+phase_constraints:
+  Rising:
+    min: 3
+    max: 8
+    ideal: 5
+  Escalation:
+    min: 5
+    max: 15
+    ideal: 10
+  False_Climax:
+    min: 1
+    max: 3
+    ideal: 2
+  Second_Rise:
+    min: 3
+    max: 10
+    ideal: 6
+  True_Climax:
+    min: 2
+    max: 5
+    ideal: 3
+  Falling:
+    min: 2
+    max: 5
+    ideal: 3
+
+phase_history: []
+
+recent_patterns: []
+recent_hooks: []
+
+notes: >
+  Novel has not yet begun generation. Arc 1 starts at Chapter 1 in the Opening phase.
+  The Opening phase has no explicit constraint range — it transitions to Rising
+  once the fundamental situation and characters are established.
